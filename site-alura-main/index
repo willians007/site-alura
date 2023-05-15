@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipe Alura Start</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="/home/escola/Downloads/site-alura-main/Alunos/CEIMM.png" alt="/home/escola/Downloads/site-alura-main/Alunos/CEIMM.png">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre o colégio</h2>
+            <p class="escola-texto-um">O Colégio Estadual Irmã Maria Margaria foi fundada em 1900 e bolinha, tem como objetivo ser o primeiro ensino médio da região.</p>
+            <p class="escola-texto-dois">A turma mais estudiosa e famosa é a Segunda Série B. Nós somos super unidos e a turma favorita por todos os professores e professoras que nos ajudam. "Nunca trabalhei com uma turma tão estudios e focada como o segundo B" é um comentário recorrente entre os professoes.</p>
+        </div>
+        <img class="escola-imagem" src="/home/escola/Downloads/site-alura-main/Captura-de-tela_2023-04-03_09-09-41.jpeg" alt="/home/escola/Downloads/site-alura-main/Captura-de-tela_2023-04-03_09-09-41.jpeg">
+    </section>
+    <section class="estudante">
+        <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <div class="estudante-todos">
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/Pele_by_John_Mathew_Smith.jpg" alt="/home/escola/Downloads/site-alura-main/Pele_by_John_Mathew_Smith.jpg">
+            <h3 class="estudante-nome">Rei Pelé</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/Elisa-640x1024.png" alt="/home/escola/Downloads/site-alura-main/Elisa-640x1024.png">
+            <h3 class="estudante-nome">Eliza Marcela</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/89ae0f15e453ae36f966bb46d880f56c.jpg" alt="/home/escola/Downloads/site-alura-main/89ae0f15e453ae36f966bb46d880f56c.jpg">
+            <h3 class="estudante-nome">Matui</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/downlodo bronxad.jpeg" alt="/home/escola/Downloads/site-alura-main/downlodo bronxad.jpeg">
+            <h3 class="estudante-nome">Charles do Bronx</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/ddd.jpeg" alt="/home/escola/Downloads/site-alura-main/ddd.jpeg">
+            <h3 class="estudante-nome">Véio da Havan</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/elizabeth-II.jpg" alt="/home/escola/Downloads/site-alura-main/elizabeth-II.jpg">
+            <h3 class="estudante-nome">Elizabeth</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/d36d822b93ce97e27613d9c5691582a1.jpg" alt="/home/escola/Downloads/site-alura-main/d36d822b93ce97e27613d9c5691582a1.jpg">
+            <h3 class="estudante-nome">MC Lan</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="/home/escola/Downloads/site-alura-main/download.jpeg" alt="/home/escola/Downloads/site-alura-main/download.jpeg">
+            <h3 class="estudante-nome">Muuuzy</h3>
+            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
+            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
+            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+        </div>
+    </div>
+    </section>
+</body>
+</html>
